@@ -1,0 +1,1 @@
+# python main.py "{'ws_id': 1, 'token': 'token', 'time': '2015-08-09 19:23:23', 'measurements': [{'sensor_id':1, 'value':2.55}], 'errors': []}"
